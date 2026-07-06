@@ -1,0 +1,24 @@
+{
+  "overview": "Mothera is a comprehensive pregnancy and motherhood companion web app with two distinct flows — Pregnancy and Having Baby — each with personalized dashboards, reminders, wellness resources, AI assistant Tina, community, shopping, and classes.",
+  "features": [
+    "Pregnancy dashboard with timeline, reminders, wellness, emergency SOS, and doctor connect",
+    "Having Baby dashboard with Mother's Wellness, vaccine reminders, and specialist doctor connect",
+    "AI assistant Tina with voice chat and pregnancy-friendly responses",
+    "Community hub with Mothers' and Baby topics and messaging",
+    "Shopping catalog for mothers and babies",
+    "Classes with instructor-led wellness sessions",
+    "Language selection (English/Tamil)",
+    "Modern elegant design with distinct visual themes for each flow"
+  ],
+  "category": "health-wellness",
+  "tags": [
+    "pregnancy",
+    "motherhood",
+    "wellness",
+    "baby",
+    "health",
+    "mobile-first",
+    "ai-assistant"
+  ],
+  "last_updated": "2026-04-10T21:54:17.882Z"
+}
